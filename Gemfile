@@ -20,7 +20,7 @@ group :development, :test do
   gem 'web-console', '~> 2.0'
 end
 
-gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'obfuscate_id'
 gem 'font-awesome-sass', '~> 4.5.0'
 gem 'geocoder'
