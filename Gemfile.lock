@@ -91,7 +91,7 @@ GEM
     ffi (1.9.25)
     font-awesome-sass (4.5.0)
       sass (>= 3.2)
-    geocoder (1.5.0)
+    geocoder (1.6.1)
     geoip (1.6.4)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
